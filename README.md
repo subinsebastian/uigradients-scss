@@ -20,13 +20,13 @@ Contains list of all gradient mixins(over time more shall be added)
 
 ## To Use
 1. Simply paste the two files in your sass/ folder.
-2. Since both are [partial files](http://sass-lang.com/guide),  just add
+2. Since both are [partial files](http://sass-lang.com/guide),  just add 
 ```    ```
 
 ```ruby
-import 'gradient-mixin';
+@import 'gradient-mixin';
 ```
-
+   on top of the style.scss file.
 # Kindly Contribute Mixins for other gradient properties.
 
 
