@@ -24,7 +24,7 @@ Contains list of all gradient mixins(over time more shall be added)
 ```    ```
 
 ```ruby
-@import 'gradient-mixin';
+@import 'gradient-mixins';
 ```
    on top of the style.scss file.
 # Kindly Contribute Mixins for other gradient properties.
